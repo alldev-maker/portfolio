@@ -1,4 +1,4 @@
-## Features
+# Features
 
 - Latest Next.js 13 features
 - Next.js App Router
