@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/me.jpg"
+              src="/pic.png"
               alt="Edwin Lopez portrait"
               width="192"
               height="192"
